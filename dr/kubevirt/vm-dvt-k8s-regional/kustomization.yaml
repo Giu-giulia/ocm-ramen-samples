@@ -1,6 +1,0 @@
----
-resources:
-  - ../base
-namespace: vm-dvt
-commonLabels:
-  app: vm-dvt
